@@ -1,30 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="CHILE",CHILE HD | CANAL 13
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8591
-#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="" group-title="CHILE",CHILE HD | CHILEVISION
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8589
-#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="" group-title="CHILE",CHILE | ETC
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8592
 #EXTINF:-1 tvg-id="" tvg-name="LA RED" tvg-logo="" group-title="CHILE",CHILE | LA RED
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8587
-#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="CHILE",CHILE | MEGA
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8595
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="" group-title="CHILE",CHILE | TVN
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8597
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="CHILE",CHILE | CANAL 13
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8594
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Linares" tvg-logo="http://lpch.cl/images/tv/canal-5-linares.png" group-title="CHILE",CHILE HD | Canal 5 Linares
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8601
-#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="" group-title="CHILE",CHILE | CHILEVISION
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8590
 #EXTINF:-1 tvg-id="" tvg-name="LA RED " tvg-logo="" group-title="CHILE",CHILE HD | LA RED 
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8588
-#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="CHILE",CHILE HD | MEGA
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8596
-#EXTINF:-1 tvg-id="" tvg-name="TELETRAk TV" tvg-logo="" group-title="CHILE",CHILE HD | TELETRAk TV
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8585
+#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="" group-title="CHILE",CHILE | CHILEVISION
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8590
+#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="" group-title="CHILE",CHILE HD | CHILEVISION
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8589
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="CHILE",CHILE HD | CANAL 13
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8591
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13" tvg-logo="" group-title="CHILE",CHILE | CANAL 13
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8594
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="" group-title="CHILE",CHILE | TVN
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8597
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://lpch.cl/images/tv/tvr.jpg" group-title="CHILE",CHILE HD | TVN
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8605
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="CHILE",CHILE | MEGA
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8595
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="CHILE",CHILE HD | MEGA
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8596
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="" group-title="CHILE",CHILE | ETC
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8592
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Linares" tvg-logo="http://lpch.cl/images/tv/canal-5-linares.png" group-title="CHILE",CHILE HD | Canal 5 Linares
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8601
+#EXTINF:-1 tvg-id="" tvg-name="TELETRAk TV" tvg-logo="" group-title="CHILE",CHILE HD | TELETRAk TV
+http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8585
 #EXTINF:-1 tvg-id="" tvg-name="CDF HD" tvg-logo="https://www.futbolmovil.net/wp-content/uploads/2016/11/ver-cdf-premium-online-android-830x450.jpg" group-title="CHILE",CHILE DEP | CDF HD
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/60829
 #EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM HD" tvg-logo="https://www.nicepng.com/png/full/419-4196216_cdo-premium-canal-cdo.png" group-title="CHILE",CHILE DEP | CDO PREMIUM HD
