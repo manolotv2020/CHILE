@@ -15,7 +15,7 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" name="CHILE | TVN" group="CHILE" logo="https://www.encancha.cl/wp-content/uploads/2020/10/50404537477_ce85db68df_c.jpg", Tvn Chile
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8597
-#EXTINF:0 type="stream" channelId="2344" name="TVN 2" group="CHILE" logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN 2
+#EXTINF:0 type="stream" channelId="2344" name="24 Horas" group="CHILE" logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 2
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
 #EXTINF:0 type="stream" channelId="-1" name="CHILE HD | TVN" group="CHILE" logo="https://www.encancha.cl/wp-content/uploads/2020/10/50404537477_ce85db68df_c.jpg", Tvn Chile HD
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8605
